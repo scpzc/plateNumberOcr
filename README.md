@@ -55,7 +55,7 @@ train_rec.py      训练识别模型
 demo.py           推理示例
 ```
 
-### 安装
+### 安装（Python 3.9+）
 
 ```bash
 pip install -r requirements.txt
